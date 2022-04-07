@@ -1,5 +1,5 @@
 ### Hi there 👋
-###⚡ Fun fact...
+⚡ Fun fact...
 
 
 <!--
