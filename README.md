@@ -1,9 +1,9 @@
 ### Hi there 👋
 ###⚡ Fun fact...
 
- Html,css  9 hrs 15 mins   █████████████████▒░░░░░░░   68.81 %
-JavaScript 4 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.19 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+<a href="https://github.com/AboalfazlForooghi2004">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372" />
+</a>
 <!--
 **AboalfazlForooghi2004/AboalfazlForooghi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
