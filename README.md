@@ -3,8 +3,12 @@
 <br />
 <br />
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AboalfazlForooghi2004&show_icons=true&theme=midnight-purple)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AboalfazlForooghi2004&layout=compact)](https://github.com/AboalfazlForooghi2004/github-readme-stats&layout=compact)
+ 
+ 
+
 <!--
 **AboalfazlForooghi2004/AboalfazlForooghi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
