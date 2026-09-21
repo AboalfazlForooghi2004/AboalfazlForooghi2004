@@ -13,9 +13,7 @@
   <a href="https://github.com/AboalfazlForooghi2004/netproof">
     <img src="https://img.shields.io/badge/Network%20Verification-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Network Verification" />
   </a>
-  <a href="https://github.com/AboalfazlForooghi2004/ztetra">
-    <img src="https://img.shields.io/badge/Zero--Trust%20Observability-DC2626?style=for-the-badge&logo=linux&logoColor=white" alt="Zero-Trust Observability" />
-  </a>
+  <img src="https://img.shields.io/badge/Zero--Trust%20Mindset-DC2626?style=for-the-badge&logo=linux&logoColor=white" alt="Zero-Trust Mindset" />
 </p>
 
 <p>
@@ -81,7 +79,6 @@ I like infrastructure that can answer three questions clearly:
 | Project | What it demonstrates |
 |---|---|
 | [**netproof**](https://github.com/AboalfazlForooghi2004/netproof) | Formal, read-only reachability analysis across AWS VPC and Kubernetes NetworkPolicy using Z3; includes Terraform import, semantic diff, blast-radius analysis and explicit `UNKNOWN` results when the model cannot safely decide. |
-| [**ztetra**](https://github.com/AboalfazlForooghi2004/ztetra) | A practical zero-trust observability phase using Tetragon on bare-metal/legacy VMs, TracingPolicy and a Go gRPC event client. |
 | [**MTDP-Bench**](https://github.com/AboalfazlForooghi2004/mtdp-bench) | A reproducible benchmark harness for comparing eBPF and traditional Linux datapaths in multi-tenant Kubernetes environments, with provenance-aware analysis. |
 | [**network-engineering-skills**](https://github.com/AboalfazlForooghi2004/network-engineering-skills) | Safety-first operational guidance for incident triage, Linux/Cisco troubleshooting, VRF/PBR design, packet analysis, cloud networking, automation and rollback planning. |
 | [**VPN Platform**](https://github.com/AboalfazlForooghi2004/vpn-platform) | A Telegram-first AmneziaWG platform with PostgreSQL, typed backend/agent boundaries, idempotent workflows, ledger invariants and a deliberate dry-run mode. |
