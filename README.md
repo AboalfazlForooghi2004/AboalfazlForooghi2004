@@ -1,116 +1,156 @@
-<h1 align="center">Hi, I'm Abolfazl Forughi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Network & Systems Engineer</strong><br />
-  Linux Networking · Cisco · Cloud · Automation · Observability
-</p>
+# Abolfazl Forughi
 
-<p align="center">
-  <a href="https://github.com/AboalfazlForooghi2004">
-    <img src="https://img.shields.io/badge/GitHub-AboalfazlForooghi2004-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <a href="https://github.com/AboalfazlForooghi2004/network-engineering-skills">
-    <img src="https://img.shields.io/badge/Network%20Engineering%20Skills-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Network Engineering Skills repository" />
-  </a>
-  <img src="https://img.shields.io/github/followers/AboalfazlForooghi2004?style=for-the-badge&label=Followers&color=06B6D4" alt="GitHub followers" />
-</p>
+### Network & Systems Engineer building reliable paths through complex systems
 
----
-
-## About me
-
-I am a **Network & Systems Engineer** focused on reliable, observable, and secure infrastructure.
-
-I work across:
-
-- Linux networking and infrastructure operations
-- Cisco switching and routing
-- Cloud and hybrid connectivity
-- Network automation and Infrastructure as Code
-- Quality control, troubleshooting, and operational documentation
-
-I enjoy understanding systems from the packet path up: how traffic enters, how it is classified, where it is routed, what policy is applied, and how the return path behaves.
-
-## What I work on
-
-| Area | Focus |
-|---|---|
-| **Linux networking** | Routing, policy routing, VRF, namespaces, VLANs, bridges, nftables, NAT, and conntrack |
-| **Cisco networking** | Switching, routing, OSPF, BGP, VLANs, STP, ACLs, and device health |
-| **Cloud networking** | VPC/VNet design, VPN, private connectivity, routing, and security controls |
-| **Automation** | Ansible, Nornir, Netmiko, Scrapli, Terraform, Jinja2, Git, and CI/CD |
-| **Operations** | Incident triage, packet analysis, monitoring, change planning, validation, and rollback |
-| **Architecture** | Segmentation, VRF, PBR, multi-path routing, service exposure, and failure-aware design |
-
-## Featured project
-
-### [Network Engineering Skills](https://github.com/AboalfazlForooghi2004/network-engineering-skills)
-
-A practical collection of precise, safety-first AI skills for Linux, Cisco, Cloud, and network operations.
-
-The repository includes focused guidance for:
-
-- Network incident triage
-- Linux and Cisco troubleshooting
-- Routing, VRF, and PBR design
-- Packet capture and flow analysis
-- Cloud network troubleshooting
-- Network automation
-- Change and rollback planning
-- Documentation and operational runbooks
+**Linux Networking · Cisco · Cloud · Kubernetes · Automation · Observability**
 
 <p>
   <a href="https://github.com/AboalfazlForooghi2004/network-engineering-skills">
-    <img src="https://img.shields.io/badge/Explore%20the%20repository-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Network Engineering Skills" />
+    <img src="https://img.shields.io/badge/Network%20Engineering%20Skills-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Network Engineering Skills" />
+  </a>
+  <a href="https://github.com/AboalfazlForooghi2004/netproof">
+    <img src="https://img.shields.io/badge/Network%20Verification-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Network Verification" />
+  </a>
+  <a href="https://github.com/AboalfazlForooghi2004/ztetra">
+    <img src="https://img.shields.io/badge/Zero--Trust%20Observability-DC2626?style=for-the-badge&logo=linux&logoColor=white" alt="Zero-Trust Observability" />
   </a>
 </p>
 
-## Engineering principles
-
-```text
-Understand the environment before changing it.
-
-Trace the forward path and the return path.
-
-Prefer evidence over assumptions.
-
-Automate repeatable work, not uncertainty.
-
-Design every change with validation and rollback.
-
-Document the decision, not only the command.
-```
-
-## Tools and technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,ansible,terraform,docker,kubernetes,aws,azure,git,prometheus,grafana" alt="Linux, Bash, Python, Ansible, Terraform, Docker, Kubernetes, AWS, Azure, Git, Prometheus, and Grafana" />
+<p>
+  <a href="https://github.com/AboalfazlForooghi2004"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub profile" /></a>
+  <a href="https://github.com/AboalfazlForooghi2004?tab=repositories"><img src="https://img.shields.io/badge/Public%20work-Explore-2563EB?style=flat-square&logo=github" alt="Public repositories" /></a>
 </p>
 
-### Current areas of exploration
-
-- Network automation with Ansible, Nornir, Netmiko, Scrapli, and Terraform
-- Linux kernel networking, namespaces, VRF, nftables, conntrack, and eBPF
-- Cloud and hybrid network architecture
-- Observability, troubleshooting, and capacity analysis
-- Reliable change management and operational runbooks
-
-## How I approach engineering work
-
-```text
-Observe → Understand → Design → Test → Validate → Document
-```
-
-I prefer small, reviewable changes, clear evidence, explicit assumptions, and a rollback path for every production-impacting operation.
-
-## Collaboration
-
-I am interested in practical discussions around network reliability, Linux networking, Cisco infrastructure, cloud connectivity, automation, observability, and safe operations.
-
-The best place to follow my technical work is my [GitHub profile](https://github.com/AboalfazlForooghi2004) and the [Network Engineering Skills repository](https://github.com/AboalfazlForooghi2004/network-engineering-skills).
+</div>
 
 ---
 
+## The short version
+
+I work at the intersection of **network engineering, systems operations, and security**. My projects move from packet paths and Linux behavior to cloud/Kubernetes policy, observability, and safe automation.
+
+I like infrastructure that can answer three questions clearly:
+
+> **What path does the traffic take? What policy applies? What evidence proves the result?**
+
+---
+
+## What I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🌐 Network systems
+
+- Linux networking and operations
+- Cisco routing and switching
+- VRF, PBR, VLANs, ACLs and NAT
+- Packet paths, return paths and failure modes
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Cloud-native networking
+
+- AWS VPC reachability and segmentation
+- Kubernetes NetworkPolicy
+- Multi-tenant datapath analysis
+- Terraform-driven infrastructure models
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Security & reliability
+
+- Zero-trust observability
+- NetFlow and IDS workflows
+- Formal reachability analysis
+- Change validation, testing and rollback
+
+</td>
+</tr>
+</table>
+
+## Selected work
+
+> These are the public projects that best represent how I think and build.
+
+| Project | What it demonstrates |
+|---|---|
+| [**netproof**](https://github.com/AboalfazlForooghi2004/netproof) | Formal, read-only reachability analysis across AWS VPC and Kubernetes NetworkPolicy using Z3; includes Terraform import, semantic diff, blast-radius analysis and explicit `UNKNOWN` results when the model cannot safely decide. |
+| [**ztetra**](https://github.com/AboalfazlForooghi2004/ztetra) | A practical zero-trust observability phase using Tetragon on bare-metal/legacy VMs, TracingPolicy and a Go gRPC event client. |
+| [**MTDP-Bench**](https://github.com/AboalfazlForooghi2004/mtdp-bench) | A reproducible benchmark harness for comparing eBPF and traditional Linux datapaths in multi-tenant Kubernetes environments, with provenance-aware analysis. |
+| [**network-engineering-skills**](https://github.com/AboalfazlForooghi2004/network-engineering-skills) | Safety-first operational guidance for incident triage, Linux/Cisco troubleshooting, VRF/PBR design, packet analysis, cloud networking, automation and rollback planning. |
+| [**VPN Platform**](https://github.com/AboalfazlForooghi2004/vpn-platform) | A Telegram-first AmneziaWG platform with PostgreSQL, typed backend/agent boundaries, idempotent workflows, ledger invariants and a deliberate dry-run mode. |
+| [**IDS Dashboard**](https://github.com/AboalfazlForooghi2004/IDS_dashboard) | A NetFlow-based intrusion-detection prototype combining flow features, Random Forest classification, Flask and a live monitoring dashboard. |
+| [**Cisco Auto Config Generator**](https://github.com/AboalfazlForooghi2004/template) | Jinja2 and YAML-based generation of consistent Cisco configurations instead of repeating device setup by hand. |
+| [**FastAPI + Netmiko API**](https://github.com/AboalfazlForooghi2004/test-fast-api) | A small API that retrieves interface information from network devices over SSH with logging and explicit connection-error handling. |
+
+## My engineering signature
+
+```text
+Observe      → understand the environment before changing it
+Model        → make topology, policy and assumptions explicit
+Test         → validate the forward path and the return path
+Operate      → prefer small, reviewable and reversible changes
+Document     → preserve the reasoning, not only the command
+```
+
+## Tools I reach for
+
 <p align="center">
-  <em>Built with curiosity, tested with evidence, and debugged one packet at a time.</em>
+  <img src="https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/eBPF-F97316?style=flat-square&logo=linux&logoColor=white" alt="eBPF" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
+
+## Current direction
+
+- Network architecture that stays understandable under failure
+- Linux and Kubernetes datapaths, isolation and observability
+- Cloud-to-cluster reachability and policy verification
+- Network automation with explicit validation and rollback
+- Turning operational knowledge into reusable, reviewable tools
+
+## A few principles I keep close
+
+<table>
+<tr>
+<td>🔎 Evidence over assumptions</td>
+<td>↔️ Forward path and return path</td>
+</tr>
+<tr>
+<td>🧪 Reproducible tests over screenshots</td>
+<td>🛑 Unknown is safer than a false proof</td>
+</tr>
+<tr>
+<td>🔐 Fail-closed security boundaries</td>
+<td>↩️ Every risky change needs a rollback</td>
+</tr>
+</table>
+
+## Explore
+
+- [All public repositories](https://github.com/AboalfazlForooghi2004?tab=repositories)
+- [Network Engineering Skills](https://github.com/AboalfazlForooghi2004/network-engineering-skills)
+- [Portfolio repository](https://github.com/AboalfazlForooghi2004/AboalfazlForooghi2004.github.io)
+
+<br />
+
+<div align="center">
+
+*Built with curiosity, tested with evidence, and debugged one packet at a time.*
+
+</div>
