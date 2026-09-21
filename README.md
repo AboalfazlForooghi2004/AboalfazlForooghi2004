@@ -1,26 +1,27 @@
-<div align="center">
+<h1 align="center">Hi, I'm Abolfazl Forughi 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0E7490,100:06B6D4&height=190&section=header&text=Aboalfazl%20Forughi&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Network%20%26%20Systems%20Engineer&descAlignY=61&descSize=18" alt="Aboalfazl Forughi - Network and Systems Engineer" />
-
-# Network & Systems Engineering
-
-<p>
-  <a href="https://github.com/AboalfazlForooghi2004"><img src="https://img.shields.io/badge/GitHub-AboalfazlForooghi2004-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
-  <a href="https://github.com/AboalfazlForooghi2004/network-engineering-skills"><img src="https://img.shields.io/badge/Network%20Engineering%20Skills-0E7490?style=for-the-badge&logo=github" alt="Network Engineering Skills repository"></a>
-  <img src="https://komarev.com/ghpvc/?username=AboalfazlForooghi2004&style=for-the-badge&color=06B6D4" alt="Profile views">
+<p align="center">
+  <strong>Network & Systems Engineer</strong><br />
+  Linux Networking · Cisco · Cloud · Automation · Observability
 </p>
 
-<p><em>Designing reliable networks, automating repeatable operations, and learning something new from every packet.</em></p>
-
-</div>
+<p align="center">
+  <a href="https://github.com/AboalfazlForooghi2004">
+    <img src="https://img.shields.io/badge/GitHub-AboalfazlForooghi2004-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://github.com/AboalfazlForooghi2004/network-engineering-skills">
+    <img src="https://img.shields.io/badge/Network%20Engineering%20Skills-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Network Engineering Skills repository" />
+  </a>
+  <img src="https://img.shields.io/github/followers/AboalfazlForooghi2004?style=for-the-badge&label=Followers&color=06B6D4" alt="GitHub followers" />
+</p>
 
 ---
 
 ## About me
 
-I am a **Network & Systems Engineer** focused on building reliable, observable, and secure infrastructure.
+I am a **Network & Systems Engineer** focused on reliable, observable, and secure infrastructure.
 
-My work sits at the intersection of:
+I work across:
 
 - Linux networking and infrastructure operations
 - Cisco switching and routing
@@ -30,13 +31,13 @@ My work sits at the intersection of:
 
 I enjoy understanding systems from the packet path up: how traffic enters, how it is classified, where it is routed, what policy is applied, and how the return path behaves.
 
-## Areas I work on
+## What I work on
 
 | Area | Focus |
 |---|---|
 | **Linux networking** | Routing, policy routing, VRF, namespaces, VLANs, bridges, nftables, NAT, and conntrack |
-| **Cisco networking** | Switching, routing, OSPF, BGP, VLANs, STP, ACLs, and network health analysis |
-| **Cloud networking** | VPC/VNet design, VPN, private connectivity, routing, security controls, and hybrid networks |
+| **Cisco networking** | Switching, routing, OSPF, BGP, VLANs, STP, ACLs, and device health |
+| **Cloud networking** | VPC/VNet design, VPN, private connectivity, routing, and security controls |
 | **Automation** | Ansible, Nornir, Netmiko, Scrapli, Terraform, Jinja2, Git, and CI/CD |
 | **Operations** | Incident triage, packet analysis, monitoring, change planning, validation, and rollback |
 | **Architecture** | Segmentation, VRF, PBR, multi-path routing, service exposure, and failure-aware design |
@@ -45,9 +46,9 @@ I enjoy understanding systems from the packet path up: how traffic enters, how i
 
 ### [Network Engineering Skills](https://github.com/AboalfazlForooghi2004/network-engineering-skills)
 
-A practical collection of precise, safety-first AI skills for network engineering workflows across Linux, Cisco, Cloud, and operations.
+A practical collection of precise, safety-first AI skills for Linux, Cisco, Cloud, and network operations.
 
-The repository currently covers:
+The repository includes focused guidance for:
 
 - Network incident triage
 - Linux and Cisco troubleshooting
@@ -58,7 +59,11 @@ The repository currently covers:
 - Change and rollback planning
 - Documentation and operational runbooks
 
-<a href="https://github.com/AboalfazlForooghi2004/network-engineering-skills"><img src="https://img.shields.io/badge/Explore%20the%20project-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Network Engineering Skills"></a>
+<p>
+  <a href="https://github.com/AboalfazlForooghi2004/network-engineering-skills">
+    <img src="https://img.shields.io/badge/Explore%20the%20repository-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore Network Engineering Skills" />
+  </a>
+</p>
 
 ## Engineering principles
 
@@ -90,22 +95,13 @@ Document the decision, not only the command.
 - Observability, troubleshooting, and capacity analysis
 - Reliable change management and operational runbooks
 
-## GitHub activity
+## How I approach engineering work
 
-<div align="center">
+```text
+Observe → Understand → Design → Test → Validate → Document
+```
 
-<a href="https://github.com/AboalfazlForooghi2004">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AboalfazlForooghi2004&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent&title_color=0E7490&icon_color=06B6D4&text_color=475569" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/AboalfazlForooghi2004">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboalfazlForooghi2004&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=0E7490&text_color=475569" alt="Top programming languages" />
-</a>
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AboalfazlForooghi2004&hide_border=true&background=FFFFFF00&ring=0E7490&fire=F97316&currStreakLabel=0E7490&sideLabels=475569&dates=64748B" alt="GitHub contribution streak" />
-
-</div>
+I prefer small, reviewable changes, clear evidence, explicit assumptions, and a rollback path for every production-impacting operation.
 
 ## Collaboration
 
@@ -115,10 +111,6 @@ The best place to follow my technical work is my [GitHub profile](https://github
 
 ---
 
-<div align="center">
-
-<sub>Built with curiosity, tested with evidence, and debugged one packet at a time.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0E7490,100:0F172A&height=110&section=footer" alt="Footer" />
-
-</div>
+<p align="center">
+  <em>Built with curiosity, tested with evidence, and debugged one packet at a time.</em>
+</p>
